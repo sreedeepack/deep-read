@@ -9,7 +9,6 @@ import uuid
 import os
 
 
-
 class Summarizer():
 
 	def __init__(self,text):
